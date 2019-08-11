@@ -10,5 +10,5 @@ public interface IErrorCode {
 
     long getCode();
 
-    String message();
+    String getMessage();
 }

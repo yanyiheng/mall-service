@@ -29,7 +29,8 @@ public enum ResultCode implements IErrorCode {
     }
 
     @Override
-    public String message() {
+    public String getMessage() {
         return message;
     }
+
 }
